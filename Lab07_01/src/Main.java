@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        for (int i = 0; i <= 30; i++)//loop for counting
+        for (int i = 0; i <= 30; i++)//loop for counting up
         {
             System.out.println(i + " ");//prints out numbers
         }
