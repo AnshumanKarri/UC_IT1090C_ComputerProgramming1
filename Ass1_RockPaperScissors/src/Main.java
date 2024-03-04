@@ -64,6 +64,6 @@ public class Main {
                 correctInput = choice.equalsIgnoreCase("Y") || choice.equalsIgnoreCase("N"); // if choice is Y or N, correctInput will become true and the loop will stop; otherwise, correctInput will be false and the loop will continue
             }
             continuePlaying = choice.equalsIgnoreCase("Y"); // if choice is Y, then the boolean will be true and the game loop will continue; otherwise, the boolean will be false, and the game loop will stop
-        } while (continuePlaying);
+        } while (continuePlaying); // checks to see if the
     }
 }
