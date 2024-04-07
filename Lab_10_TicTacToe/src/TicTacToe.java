@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 
 public class TicTacToe {
     private static final Scanner IN = new Scanner(System.in);
